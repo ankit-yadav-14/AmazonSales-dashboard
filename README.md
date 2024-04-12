@@ -3,7 +3,7 @@
 📊 Power BI Dashboard Repository: Amazon Sales Dashboard 
 <br>
 <br>
-!Screenshot(144)
+![image](Screenshot(144).png)
 <br>
 <br>
 I am excited to share my first Power BI dashboard on GitHub! This repository is for Amazon sales and performance analysis.
